@@ -1,7 +1,7 @@
-# MyTradingView
+# Trading View Project
 [![Netlify Status](https://api.netlify.com/api/v1/badges/317da820-20d5-45f2-b0a3-f2c49feb5bf7/deploy-status)](https://app.netlify.com/sites/mztrading/deploys)
 
-A powerful stock options analysis tool built with **Next.js**, designed to help users explore and analyze stock option data efficiently.
+A comprehensive stock options analysis platform developed using Next.js, providing efficient tools for examining and interpreting option data.
 
 > ⚠️ **Disclaimer:**  
 > This application is intended for **educational and informational purposes only**. It does **not constitute financial advice** and makes no guarantees about investment outcomes. Users are solely responsible for any decisions made using this application.
@@ -35,7 +35,7 @@ To get started with development, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mnsrulz/mytradingview.git
+   git clone https://github.com/Zephyr3311/Trading-View.git
    cd mytradingview
    ```
 
