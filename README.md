@@ -1,4 +1,5 @@
 # Trading View Project
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/317da820-20d5-45f2-b0a3-f2c49feb5bf7/deploy-status)](https://app.netlify.com/sites/mztrading/deploys)
 
 A comprehensive stock options analysis platform developed using Next.js, providing efficient tools for examining and interpreting option data.
